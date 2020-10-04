@@ -1,0 +1,4 @@
+baseURL = "https://AON25650572.github.io/blog/"
+languageCode = "ja-jp"
+title = "My New Hugo Site"
+theme = "ananke"
